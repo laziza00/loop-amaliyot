@@ -1,0 +1,22 @@
+.container {
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto auto;
+}
+.loopTwo {
+    padding: 50px 0;
+}
+.myimage{
+    border-radius: 10px;
+  }
+  
+  .glass{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 40px;
+  }
